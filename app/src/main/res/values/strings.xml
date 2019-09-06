@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlcoolOuGasolina</string>
+    <string name="alcool_edit_text">Álcool Ex: 2.8</string>
+    <string name="gasolina_edit_text">Gasolina Ex: 3.9</string>
+    <string name="header_alcool">Preço Álcool:</string>
+    <string name="header_gasolina">Preço Gasolina:</string>
+    <string name="calcular">Calcular!</string>
+    <string name="better_alcool">Abasteça com Álcool!!!</string>
+    <string name="better_gasolina">Abasteça com Gasolina!!!</string>
+    <string name="field_empty">Insira os valores primeiramente.</string>
+</resources>
